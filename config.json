@@ -1,0 +1,18 @@
+{
+    "token":"",
+    "prefix":"+",
+    "activity": "https://discord.gg/kashima" ,
+    "log_channel": null ,
+    "name": "VIP gen",
+    "VIP_role":["1258248557077467188",""],
+    "gen_channels":["1258245368894718023",""],
+    "VIP_NB":0, 
+    "fourni_ROLE":["1258255067128266813",""],
+    "owner_ROLE":["1258142582416867369",""],
+    "ping_role":"id roles ping restock",
+    "channel_ping":"channel id for ping restock",
+    "emote":"972149653694996560",
+    "GenCooldown": "1",
+    "webhook":"webhook restock salon here", 
+    "avatar":""
+}
